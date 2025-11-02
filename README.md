@@ -228,10 +228,4 @@ Run the project
 
 This project is maintained by the repository owner. If you'd like to contribute, fork the repo and open a pull request, or contact the owner for collaboration.
 
-## Uploading to GitHub
 
-If you want me to push these changes to `https://github.com/VSHINE04/news-sentiment-analysis`, I can initialize a git repo, commit the updated README and (optionally) other files, and attempt to push — but pushing requires write access or credentials on your machine. If the push fails due to authentication, I'll provide exact commands and next steps.
-
----
-
-Short and actionable README prepared.
