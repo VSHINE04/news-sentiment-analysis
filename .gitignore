@@ -1,0 +1,74 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+venv_py311/
+venv311/
+
+# Large archives / project exports
+news-sentiment-analysis.rar
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Output files
+output/
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Logs
+*.log
+logs/
+
+# MongoDB
+*.bson
+
+# Spark
+spark-warehouse/
+derby.log
+metastore_db/
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
